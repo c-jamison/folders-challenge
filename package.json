@@ -1,0 +1,15 @@
+{
+  "name": "endpoint",
+  "version": "1.0.0",
+  "description": "endpoint challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.0.3"
+  }
+}
