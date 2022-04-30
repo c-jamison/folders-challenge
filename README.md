@@ -2,9 +2,8 @@
 
 Project can be ran using
 
-`yarn
-
- yarn start`
+`yarn`
+`yarn start`
 
 Tests available using
 
