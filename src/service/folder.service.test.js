@@ -87,7 +87,7 @@ describe("Folder Service", () => {
     expect(result).toEqual(`Cannot delete fruit - fruit does not exist`);
   });
 
-  test.only("should delete child folder", () => {
+  test("should delete child folder", () => {
     FolderService.create("foods");
     FolderService.create("foods/fruits");
     FolderService.create("foods/fruits/apple");
